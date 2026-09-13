@@ -22,7 +22,7 @@ class TwoSum {
 }
 
 
-public class MainTwoSum {
+public class MainSumOfTwo {
 
     public static void main(String[] args) {
 
